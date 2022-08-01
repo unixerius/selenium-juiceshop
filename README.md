@@ -40,7 +40,7 @@ You can see the test jobs getting queued for the three browsers, by visiting the
 Once the jobs run, you can click on the camera of a running session, to see what the browser is doing. 
 
 
-## End to End Tests for [owasp-juice-shop][juice-shop]
+## End to End Tests for OWASP Juice Shop
 
 1. User will navigate to the website and close all the pop up first.
 2. User will click on Login link and click on `Not yet a customer link` and register himself on the website.
