@@ -71,7 +71,6 @@ public class DriverManager {
             try {
                 final DesiredCapabilities caps = new DesiredCapabilities ();
                 caps.setBrowserName (Browser.CHROME.browserName ());
-                caps.setVersion ("101");
                 DRIVER.set (new RemoteWebDriver (new URL (HUB_URL), caps));
             } catch (final MalformedURLException e) {
                 LOG.error ("Error setting remote-chrome", e);
@@ -80,7 +79,6 @@ public class DriverManager {
             try {
                 final DesiredCapabilities caps = new DesiredCapabilities ();
                 caps.setBrowserName (Browser.FIREFOX.browserName ());
-                caps.setVersion ("99");
                 DRIVER.set (new RemoteWebDriver (new URL (HUB_URL), caps));
             } catch (final MalformedURLException e) {
                 LOG.error ("Error setting remote-firefox", e);
@@ -89,7 +87,6 @@ public class DriverManager {
             try {
                 final DesiredCapabilities caps = new DesiredCapabilities ();
                 caps.setBrowserName (Browser.EDGE.browserName ());
-                caps.setVersion ("100");
                 DRIVER.set (new RemoteWebDriver (new URL (HUB_URL), caps));
             } catch (final MalformedURLException e) {
                 LOG.error ("Error setting remote-edge", e);
