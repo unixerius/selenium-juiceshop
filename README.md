@@ -21,6 +21,11 @@ This fork of the project has been stripped of everything, **except** for the Sel
 
 The automated tests in this project are used to demonstrate the concepts of unattended, scripted testing of web applications. As part of a five-day course on DevSecOps basics, students are introduced to a large number of concepts bringing them up to an A1 / Awareness level of experience with various DevSecOps tools. 
 
+Mohammad provides two excellent write-ups on how these tests work:
+
+- [End to end testing using Selenium WebDriver and Java](https://medium.com/@iamfaisalkhatri/end-to-end-testing-using-selenium-webdriver-and-java-4ff8667716ca)
+- [Parallel execution of tests using Selenium Grid 4 with Docker Compose](https://medium.com/@iamfaisalkhatri/parallel-execution-of-tests-using-selenium-grid-4-with-docker-compose-2dc243f4fe8b)
+
 
 ## Starting a test
 
