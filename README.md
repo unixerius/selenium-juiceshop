@@ -33,6 +33,10 @@ Running the test suite can be done by running:
 * `docker-compose -f docker-compose-v3.yml up`
 * `mvn test`
 
+You can see the test jobs getting queued for the three browsers, by visiting the Selenium Grid UI at http://localhost:4444. 
+
+Once the jobs run, you can click on the camera of a running session, to see what the browser is doing. 
+
 
 ## End to End Tests for [owasp-juice-shop][juice-shop]
 
