@@ -19,6 +19,8 @@ The original project runs automated web UI tests against a few target systems.
 
 This fork of the project has been stripped of everything, **except** for the Selenium Grid-based tests of [Juice Shop](https://github.com/juice-shop/juice-shop).
 
+The automated tests in this project are used to demonstrate the concepts of unattended, scripted testing of web applications. As part of a five-day course on DevSecOps basics, students are introduced to a large number of concepts bringing them up to an A1 / Awareness level of experience with various DevSecOps tools. 
+
 
 ## Starting a test
 
