@@ -1,5 +1,10 @@
 # Contributor Covenant Code of Conduct
 
+## Origin
+
+This code of conduct was put into place by Mohammad Faisal Khatri, for his original "selenium4poc" project. We are honoring his intentions by maintaining the same code of conduct.
+
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
@@ -59,8 +64,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-mohammadfaisalkhatri@gmail.com.
+reported to the community leaders responsible for enforcement at info@unixerius.nl.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
