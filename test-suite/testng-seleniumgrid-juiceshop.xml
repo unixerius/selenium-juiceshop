@@ -36,21 +36,4 @@
             </class>
         </classes>
     </test> <!-- Test -->
-    <test name="Juice Shop end to End automation tests on Remote Edge">
-        <parameter name="browser" value="remote-edge"/>
-        <classes>
-            <class name="io.github.mfaisalkhatri.tests.juiceshop.JuiceShopTests">
-                <methods>
-                    <include name="testRegisterUser"/>
-                    <include name="testLogin"/>
-                    <include name="testAddProductToCart"/>
-                    <include name="testProductCheckout"/>
-                    <include name="testSelectDelivery"/>
-                    <include name="testMakePayment"/>
-                    <include name="testOrderSummary"/>
-                    <include name="testOrderConfirmation"/>
-                </methods>
-            </class>
-        </classes>
-    </test> <!-- Test -->
 </suite> <!-- Suite -->
