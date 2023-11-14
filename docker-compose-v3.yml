@@ -17,7 +17,7 @@ services:
   #      - SE_NODE_SESSION_TIMEOUT=180
 
   firefox:
-    image: selenium/node-firefox:113.0
+    image: selenium/node-firefox:112.0
     shm_size: 2gb
     depends_on:
       - selenium-hub
